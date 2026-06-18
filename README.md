@@ -1,0 +1,2 @@
+# Career-Success-Score-Prediction---Datathon-Solution
+This repository contains the machine learning solution developed for a Datathon competition aimed at predicting the Career Success Score of students and recent graduates.   The final model is a robust Stacking &amp; Blending Ensemble architecture built upon advanced feature engineering and a strict cross-validation strategy to prevent overfitting.
